@@ -11,7 +11,7 @@
                     "Ref": "functionname"
                 },
                 "Code": {
-                    "S3Bucket": "",
+                    "S3Bucket": "group4project",
                     "S3Key": "lambda.zip"
                 },
                 "Runtime": "python3.6",
